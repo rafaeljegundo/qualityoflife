@@ -18,6 +18,7 @@ Create a heatmap that represents quality of life based on data available.
 ## References & inspirations
 
 [heatmap.js](http://www.patrick-wied.at/static/heatmapjs/showcases.html)
+
 [Stamen design](http://www.mysociety.org/2007/more-travel-maps/)
 
 ## Contacts
